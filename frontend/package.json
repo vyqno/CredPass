@@ -1,0 +1,39 @@
+{
+  "name": "credpass-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.12.39",
+    "@types/animejs": "^3.1.13",
+    "animejs": "^4.3.5",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.513.0",
+    "motion": "^12.29.2",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "thirdweb": "^5.118.0",
+    "viem": "^2.45.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.6",
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.0.3",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.25.0",
+    "eslint-config-next": "15.2.4",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.1.6",
+    "typescript": "^5.8.2"
+  }
+}
