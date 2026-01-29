@@ -53,7 +53,7 @@ export function Header() {
             chain={sepolia}
             wallets={wallets}
             theme="dark"
-            showThirdwebBranding={false}
+
             connectButton={{
               label: "Connect",
               style: {
